@@ -7,20 +7,20 @@ export default class Header extends Component {
                 <nav style={{ backgroundColor: '#2AE0E3' }}>
                     <div className="container">
                     <div class="nav-wrapper">
-                        <Link to='/mytest' className='brand-logo' style={{color: 'black'}}>CV</Link>
+                        <Link to='/cv' className='brand-logo' style={{color: 'black'}}>CV</Link>
                         <ul className='sidenav' id='side-nav'>
                             <li>
-                                <Link to='/mytest' >
+                                <Link to='/cv' >
                                     <i className="fas fa-home" ></i>Home
                                 </Link>
                             </li>
                             <li>
-                                <Link to="/mytest/experiences">
+                                <Link to="/cv/experiences">
                                     <i className="fas fa-id-badge"></i>Experiences
                                 </Link>
                             </li>
                             <li>
-                                <Link to="/mytest/educations">
+                                <Link to="/cv/educations">
                                     <i className="fas fa-graduation-cap"></i>Educations
                                 </Link>
                             </li>
@@ -32,17 +32,17 @@ export default class Header extends Component {
                         </ul>
                         <ul id="nav-mobile" className="right hide-on-med-and-down">
                             <li>
-                                <Link to='/mytest'>
+                                <Link to='/cv'>
                                     <i className="fas fa-home"></i> Home
                                 </Link>
                             </li>
                             <li>
-                                <Link to='/mytest/experiences'>
+                                <Link to='/cv/experiences'>
                                     <i className="fas fa-id-badge"></i> Experiences
                             </Link>
                             </li>
                             <li>
-                                <Link to='/mytest/educations'>
+                                <Link to='/cv/educations'>
                                     <i className="fas fa-graduation-cap"></i> Educations
                             </Link>
                             </li>
