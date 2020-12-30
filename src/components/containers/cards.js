@@ -6,7 +6,7 @@ export default class Card extends Component {
 
             <div className="card" style={{width: '80%'}}>
                 <div className="card-image waves-effect waves-block waves-light">
-                    <img className="activator"  src={Img} />
+                    <img className="actnpm install --save gh-pagesivator"  src={Img} />
             </div>
                     <div className="card-content">
                         <span className="card-title activator grey-text text-darken-4">Vo Thi Thanh Thao<i className="material-icons right">more_vert</i></span>

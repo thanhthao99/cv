@@ -11,10 +11,10 @@ function App() {
   return (
     <div className="App">
         <Router>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/mytest" component={Home} />
             <Switch >
-              <Route path="/experiences" component={Experiences} />
-              <Route path="/educations" component={Educations} />
+              <Route path="/mytest/experiences" component={Experiences} />
+              <Route path="/mytest/educations" component={Educations} />
   
             </Switch>
         </Router>
