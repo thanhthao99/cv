@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mytest/static/css/main.77823c51.chunk.css",
+    "main.js": "/mytest/static/js/main.b6cb861f.chunk.js",
+    "main.js.map": "/mytest/static/js/main.b6cb861f.chunk.js.map",
+    "runtime-main.js": "/mytest/static/js/runtime-main.af70232c.js",
+    "runtime-main.js.map": "/mytest/static/js/runtime-main.af70232c.js.map",
+    "static/css/2.a7230bcb.chunk.css": "/mytest/static/css/2.a7230bcb.chunk.css",
+    "static/js/2.60129aa5.chunk.js": "/mytest/static/js/2.60129aa5.chunk.js",
+    "static/js/2.60129aa5.chunk.js.map": "/mytest/static/js/2.60129aa5.chunk.js.map",
+    "static/js/3.c60355ad.chunk.js": "/mytest/static/js/3.c60355ad.chunk.js",
+    "static/js/3.c60355ad.chunk.js.map": "/mytest/static/js/3.c60355ad.chunk.js.map",
+    "index.html": "/mytest/index.html",
+    "static/css/2.a7230bcb.chunk.css.map": "/mytest/static/css/2.a7230bcb.chunk.css.map",
+    "static/css/main.77823c51.chunk.css.map": "/mytest/static/css/main.77823c51.chunk.css.map",
+    "static/js/2.60129aa5.chunk.js.LICENSE.txt": "/mytest/static/js/2.60129aa5.chunk.js.LICENSE.txt",
+    "static/media/taolathao.d6682fed.jpg": "/mytest/static/media/taolathao.d6682fed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af70232c.js",
+    "static/css/2.a7230bcb.chunk.css",
+    "static/js/2.60129aa5.chunk.js",
+    "static/css/main.77823c51.chunk.css",
+    "static/js/main.b6cb861f.chunk.js"
+  ]
+}
